@@ -11,12 +11,13 @@ import multiprocessing
 
 # Account credentials (you can add more accounts here)
 accounts = [
-    {"username": "nageshoperation@gmail.com", "password": "Nagesh@143", "user_bot_chatID": '748228452', "account_name": "Anandkumar", "user_bot_token" : "8131045025:AAE9_BMb5i2pk479mubtilbSIUilPA25jWM"},
+    #{"username": "nageshoperation@gmail.com", "password": "Nagesh@143", "user_bot_chatID": '748228452', "account_name": "Anandkumar", "user_bot_token" : "8131045025:AAE9_BMb5i2pk479mubtilbSIUilPA25jWM"},
+    #{"username": "nageshoperation@gmail.com", "password": "Nagesh@143", "user_bot_chatID": '748228452', "account_name": "Anandkumar", "user_bot_token" : "8131045025:AAE9_BMb5i2pk479mubtilbSIUilPA25jWM"},
     # Add more accounts if necessary
 ]
 
 
-accept_option = False
+accept_option = True
 start_time = 0  # Starting time. Default 0. In 24-hour format
 end_time = 25  # Ending time. Default 25. In 24-hour format
 
